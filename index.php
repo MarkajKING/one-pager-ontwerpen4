@@ -88,7 +88,7 @@
             <img
                     class="picture"
                     src="./img/fish.png"
-                    alt="hardware">
+                    alt="fishing">
         </div>
     </section>
 
@@ -98,19 +98,24 @@
         </h2>
 
         <p>
-            Mijn code voor de Giftbox™ is vrij simpel. Zoals je hieronder op het
-            plaatje ziet heb ik variabelen aangemaakt en if-statements gebruikt.
-            De variabelen samen met de if-statements zorgen ervoor dat de Giftbox™
-            de opdracht niet meerdere keren achter elkaar doet. Hierdoor blijft
-            het doosje normaal open en dicht gaan, en wordt de melodie niet
-            verstoord.
+            De Core-Drives gaat over de voornaamste reden dat iemand een game speelt. Onze game bevat de core drive
+            'Development & Accomplishment' Dit gaat over het gevoel van uitdagingen overwinnen en
+            ergens beter in worden. <br>
+            Onze game haakt vooral in op het gedeelte 'ergens beter in worden'. Wij willen namelijk dat de kinderen
+            beter worden in het vak geschiedenis, en deze stof beter beheerst dan eerst.
+        </p>
+        <p>
+            Dit hangt ook samen met de '8 types of fun'. Van deze 8 types gebruiken wij vooral discovery en narrative.
+            De kinderen moeten gaan ontdekken om zo verder in het spel te komen. Ze zijn hier vrij in om te gaan en te
+            staan waar ze willen. Daarnaast hebben we ook narrative. Via dialogen en gesprekken krijgen de leerlingen de
+            stof die ze anders via het boek moesten leren.
         </p>
 
         <div>
             <img
                     class="picture"
-                    src="https://thumbor.pijper.io/OiAHZT8C2ie3mkBL3kmQvcOx7W8=/980x0/https://cdn.pijper.io/2021/12/Fq6yviZojfZTvh1639498216.jpg"
-                    alt="giftbox"
+                    src="https://www.radboudumc.nl/Radboud/Media/Radboud/Perspagina/brein-tandwielen.jpg"
+                    alt="brain"
             />
         </div>
     </section>
@@ -126,7 +131,7 @@
             <img
                     class="picture"
                     src="https://www.zeldadungeon.net/Zelda03/Walkthrough/02/007.png"
-                    alt="hardware">
+                    alt="zelda the game">
         </div>
         <p>
             Zoals je ziet is het een 2d style, wat ook de bedoeling was voor onze game. Alles is dezelfde stijl en
@@ -136,16 +141,17 @@
             <img
                     class="picture"
                     src="./img/allPacks.png"
-                    alt="hardware">
+                    alt="spritepacks">
         </div>
         <div>
             <img
                     class="picture"
                     src="./img/People.png"
-                    alt="hardware">
+                    alt="people">
         </div>
         <p>
-            We hebben ook gekozen voor zachte kleuren, die soepel in elkaar overlopen zodat de kinderen niet overprikkeld raken. 
+            We hebben ook gekozen voor zachte kleuren, die soepel in elkaar overlopen zodat de kinderen niet
+            overprikkeld raken.
         </p>
     </section>
 </main>
@@ -167,3 +173,4 @@
 </footer>
 </body>
 </html>
+
